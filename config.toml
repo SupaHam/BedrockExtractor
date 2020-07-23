@@ -1,0 +1,7 @@
+[Connection]
+  LocalAddress = "0.0.0.0:19133"
+  RemoteAddress = "192.168.0.24:19132"
+
+[Credentials]
+  Email = ""
+  Password = ""
